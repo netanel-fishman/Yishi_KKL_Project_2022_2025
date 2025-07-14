@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>1005P1.TXT</name>
+<description>LAI-2200 GPS Data</description>
+<Style id="style0">
+<LineStyle>
+<color>0x8000aa00</color>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>0x800000ff</color>
+</PolyStyle>
+</Style>
+<Style id="style1">
+<LineStyle>
+<color>0xffffffff</color>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>0x7d000080</color>
+</PolyStyle>
+</Style>
+<Style id="style2">
+<LineStyle>
+<color>0x800000ff</color>
+<width>1</width>
+</LineStyle>
+<PolyStyle>
+<color>0x8000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="style3">
+<IconStyle>
+<color>0xff10ff04</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>1005P1 Avg</name>
+<description>Date= 20220510 10:20:10
+LAI= 2.24
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952597,31.717469,67.126615
+34.952703,31.717469,67.126615
+34.952703,31.717379,67.126615
+34.952597,31.717379,67.126615
+34.952597,31.717469,67.126615
+34.952597,31.717469,67.126615
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P1 G0..G9</name>
+<description>Date= 20220510 10:20:10
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952754,31.717416,20
+34.952758,31.717427,20
+34.952754,31.717406,20
+34.95277,31.717381,20
+34.952666,31.717421,20
+34.952607,31.717453,20
+34.952559,31.717467,20
+34.952486,31.717447,20
+34.952495,31.717398,20
+34.952754,31.717416,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P1 LAI Profile</name>
+<description>Mean LAI: 2.2
+ Minimum: 1.4
+ Maximum: 3.5
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.952666,31.717421,40.770382
+34.952607,31.717453,56.464583
+34.952559,31.717467,48.800148
+34.952486,31.717447,106.06532
+34.952495,31.717398,83.532642
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P1 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>10</name>
+<description>Record Type: G
+Date: 20220510 10:25:01
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952666,31.717421,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>12</name>
+<description>Record Type: G
+Date: 20220510 10:25:30
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952607,31.717453,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>14</name>
+<description>Record Type: G
+Date: 20220510 10:25:58
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952559,31.717467,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>16</name>
+<description>Record Type: G
+Date: 20220510 10:26:30
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952486,31.717447,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>18</name>
+<description>Record Type: G
+Date: 20220510 10:26:53
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952495,31.717398,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>1005P1.TXT</name>
+<description>LAI-2200 GPS Data</description>
+<Style id="style0">
+<LineStyle>
+<color>0x8000aa00</color>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>0x800000ff</color>
+</PolyStyle>
+</Style>
+<Style id="style1">
+<LineStyle>
+<color>0xffffffff</color>
+<width>1.5</width>
+</LineStyle>
+<PolyStyle>
+<color>0x7d000080</color>
+</PolyStyle>
+</Style>
+<Style id="style2">
+<LineStyle>
+<color>0x800000ff</color>
+<width>1</width>
+</LineStyle>
+<PolyStyle>
+<color>0x8000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="style3">
+<IconStyle>
+<color>0xff10ff04</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>1005P1 Avg</name>
+<description>Date= 20220510 10:20:10
+LAI= 2.24
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952597,31.717469,67.126615
+34.952703,31.717469,67.126615
+34.952703,31.717379,67.126615
+34.952597,31.717379,67.126615
+34.952597,31.717469,67.126615
+34.952597,31.717469,67.126615
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P1 G0..G9</name>
+<description>Date= 20220510 10:20:10
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952754,31.717416,20
+34.952758,31.717427,20
+34.952754,31.717406,20
+34.95277,31.717381,20
+34.952666,31.717421,20
+34.952607,31.717453,20
+34.952559,31.717467,20
+34.952486,31.717447,20
+34.952495,31.717398,20
+34.952754,31.717416,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P1 LAI Profile</name>
+<description>Mean LAI: 2.2
+ Minimum: 1.4
+ Maximum: 3.5
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.952666,31.717421,40.770382
+34.952607,31.717453,56.464583
+34.952559,31.717467,48.800148
+34.952486,31.717447,106.06532
+34.952495,31.717398,83.532642
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P1 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>10</name>
+<description>Record Type: G
+Date: 20220510 10:25:01
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952666,31.717421,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>12</name>
+<description>Record Type: G
+Date: 20220510 10:25:30
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952607,31.717453,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>14</name>
+<description>Record Type: G
+Date: 20220510 10:25:58
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952559,31.717467,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>16</name>
+<description>Record Type: G
+Date: 20220510 10:26:30
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952486,31.717447,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>18</name>
+<description>Record Type: G
+Date: 20220510 10:26:53
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952495,31.717398,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Placemark>
+<name>1005P5 Avg</name>
+<description>Date= 20220510 10:56:06
+LAI= 2.19
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.95313,31.718389,65.724202
+34.953236,31.718389,65.724202
+34.953236,31.718299,65.724202
+34.95313,31.718299,65.724202
+34.95313,31.718389,65.724202
+34.95313,31.718389,65.724202
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P5 G0..G9</name>
+<description>Date= 20220510 10:56:06
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.953188,31.718482,20
+34.953161,31.718496,20
+34.953162,31.71849,20
+34.953131,31.718517,20
+34.953142,31.718289,20
+34.953163,31.718307,20
+34.95317,31.718316,20
+34.953349,31.718198,20
+34.95312,31.718289,20
+34.953132,31.718286,20
+34.953178,31.718318,20
+34.953188,31.718313,20
+34.953292,31.71817,20
+34.953188,31.718482,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P5 LAI Profile</name>
+<description>Mean LAI: 2.2
+ Minimum: 1.1
+ Maximum: 3.9
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.95312,31.718289,46.074921
+34.953132,31.718286,33.645263
+34.953292,31.71817,117.45242
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P5 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>18</name>
+<description>Record Type: G
+Date: 20220510 11:09:36
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.95312,31.718289,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>20</name>
+<description>Record Type: G
+Date: 20220510 11:09:54
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953132,31.718286,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22</name>
+<description>Record Type: G
+Date: 20220510 11:10:19
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953178,31.718318,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>24</name>
+<description>Record Type: G
+Date: 20220510 11:10:49
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953188,31.718313,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>26</name>
+<description>Record Type: G
+Date: 20220510 11:12:00
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953292,31.71817,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Placemark>
+<name>1005P3 Avg</name>
+<description>Date= 20220510 10:43:55
+LAI= 5.20
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952916,31.71859,156.09923
+34.953022,31.71859,156.09923
+34.953022,31.7185,156.09923
+34.952916,31.7185,156.09923
+34.952916,31.71859,156.09923
+34.952916,31.71859,156.09923
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P3 G0..G9</name>
+<description>Date= 20220510 10:43:55
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.953122,31.718437,20
+34.953117,31.718435,20
+34.95312,31.718419,20
+34.952854,31.718537,20
+34.952816,31.718569,20
+34.952885,31.718616,20
+34.953012,31.718691,20
+34.952828,31.718659,20
+34.953122,31.718437,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P3 LAI Profile</name>
+<description>Mean LAI: 5.2
+ Minimum: 4
+ Maximum: 5.8
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.952854,31.718537,154.98898
+34.952816,31.718569,169.38394
+34.952885,31.718616,118.9624
+34.953012,31.718691,162.93776
+34.952828,31.718659,174.22305
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P3 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>8</name>
+<description>Record Type: G
+Date: 20220510 10:46:51
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952854,31.718537,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>10</name>
+<description>Record Type: G
+Date: 20220510 10:47:10
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952816,31.718569,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>12</name>
+<description>Record Type: G
+Date: 20220510 10:47:38
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952885,31.718616,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>14</name>
+<description>Record Type: G
+Date: 20220510 10:48:44
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953012,31.718691,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>16</name>
+<description>Record Type: G
+Date: 20220510 10:49:50
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952828,31.718659,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Placemark>
+<name>1005P6 Avg</name>
+<description>Date= 20220510 11:12:10
+LAI= 2.43
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.953254,31.718402,72.953092
+34.95336,31.718402,72.953092
+34.95336,31.718312,72.953092
+34.953254,31.718312,72.953092
+34.953254,31.718402,72.953092
+34.953254,31.718402,72.953092
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P6 G0..G9</name>
+<description>Date= 20220510 11:12:10
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.953225,31.718301,20
+34.953251,31.71832,20
+34.953252,31.718385,20
+34.953351,31.718362,20
+34.953455,31.718415,20
+34.953225,31.718301,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P6 LAI Profile</name>
+<description>Mean LAI: 2.4
+ Minimum: 2.1
+ Maximum: 3.1
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.953225,31.718301,62.694763
+34.953252,31.718385,62.884247
+34.953455,31.718415,93.280267
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P6 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>2</name>
+<description>Record Type: G
+Date: 20220510 11:14:00
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953225,31.718301,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>4</name>
+<description>Record Type: G
+Date: 20220510 11:14:35
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953251,31.71832,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>6</name>
+<description>Record Type: G
+Date: 20220510 11:15:35
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953252,31.718385,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>8</name>
+<description>Record Type: G
+Date: 20220510 11:16:10
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953351,31.718362,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>10</name>
+<description>Record Type: G
+Date: 20220510 11:17:05
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.953455,31.718415,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Placemark>
+<name>1005P2 Avg</name>
+<description>Date= 20220510 10:27:30
+LAI= 2.71
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952747,31.718028,81.203823
+34.952853,31.718028,81.203823
+34.952853,31.717938,81.203823
+34.952747,31.717938,81.203823
+34.952747,31.718028,81.203823
+34.952747,31.718028,81.203823
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P2 G0..G9</name>
+<description>Date= 20220510 10:27:30
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952921,31.718014,20
+34.952847,31.717879,20
+34.952706,31.717935,20
+34.952759,31.718009,20
+34.952767,31.718078,20
+34.952921,31.718014,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P2 LAI Profile</name>
+<description>Mean LAI: 2.7
+ Minimum: 2.3
+ Maximum: 3.2
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.952921,31.718014,68.505935
+34.952706,31.717935,96.458691
+34.952759,31.718009,78.646843
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P2 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>2</name>
+<description>Record Type: G
+Date: 20220510 10:33:21
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952921,31.718014,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>4</name>
+<description>Record Type: G
+Date: 20220510 10:34:40
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952847,31.717879,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>6</name>
+<description>Record Type: G
+Date: 20220510 10:35:45
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952706,31.717935,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>8</name>
+<description>Record Type: G
+Date: 20220510 10:36:42
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952759,31.718009,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>10</name>
+<description>Record Type: G
+Date: 20220510 10:37:26
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952767,31.718078,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Placemark>
+<name>1005P4 Avg</name>
+<description>Date= 20220510 10:50:18
+LAI= 8.37
+</description>
+<styleUrl>#style0</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952279,31.718852,251.05891
+34.952385,31.718852,251.05891
+34.952385,31.718762,251.05891
+34.952279,31.718762,251.05891
+34.952279,31.718852,251.05891
+34.952279,31.718852,251.05891
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P4 G0..G9</name>
+<description>Date= 20220510 10:50:18
+</description>
+<styleUrl>#style1</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>34.952517,31.718797,20
+34.95238,31.718808,20
+34.952349,31.718811,20
+34.952226,31.718811,20
+34.952189,31.71881,20
+34.952517,31.718797,20
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>1005P4 LAI Profile</name>
+<description>Mean LAI: 8.4
+ Minimum: 7.9
+ Maximum: 8.6
+</description>
+<styleUrl>#style2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>34.952517,31.718797,256.99024
+34.95238,31.718808,250.59107
+34.952349,31.718811,256.99024
+34.952226,31.718811,236.97898
+34.952189,31.71881,253.74401
+</coordinates>
+</LineString>
+</Placemark>
+<Folder>
+<name>1005P4 B's</name>
+<visibility>0</visibility>
+<Placemark>
+<name>2</name>
+<description>Record Type: G
+Date: 20220510 10:53:49
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952517,31.718797,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>4</name>
+<description>Record Type: G
+Date: 20220510 10:54:21
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.95238,31.718808,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>6</name>
+<description>Record Type: G
+Date: 20220510 10:54:36
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952349,31.718811,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>8</name>
+<description>Record Type: G
+Date: 20220510 10:55:16
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952226,31.718811,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>10</name>
+<description>Record Type: G
+Date: 20220510 10:55:35
+SensorID: G0
+</description>
+<styleUrl>#style3</styleUrl>
+<Point>
+<coordinates>34.952189,31.71881,0
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
