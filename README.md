@@ -5,6 +5,12 @@ The project aimed to model **Leaf Water Potential (LWP)** in a mixed Mediterrane
 
 For more details about the project, please refer to the papers available in the [`Outputs_and_Presentation`](/Outputs_and_Presentations/Publications/Published_Papers) folder.
 
+**Author:** Netanel Fishman  
+**Affiliation:** David Helman Lab, the Faculty of Agriculture, Food & Environment, Hebrew University of Jerusalem  
+**Contact:** netanel.fishman@mail.huji.ac.il  
+**Last updated:** July 2025
+
+
 ---
 
 ## 📁 Folder Structure
