@@ -42,7 +42,7 @@ As mentioned in the README file of the **Spectral Data** folder:
 Raw imagery acquired by **drone** and the **VENµS satellite** is **not included** here due to large file sizes.  
 These datasets are stored on the **Givat Ram cloud server**.
 
-👉 For access details, please refer to the [Spectral Data README](/Spectral_Data/README_Spetral_Data.md).
+👉 For access details, please refer to the [Spectral Data README](/Spectral_Data/README.md).
 
 ---
 
