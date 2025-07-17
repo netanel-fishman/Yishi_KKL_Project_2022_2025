@@ -44,6 +44,7 @@ These datasets are stored on the **Givat Ram cloud server**.
 
 👉 For access details, please refer to the [Spectral Data README](/Spectral_Data/README_Spetral_Data.md).
 
+---
 
-Here you can find the folder structure:
+## Here you can find the folder structure:
 ![Folder Structure](folder_structure.png)
