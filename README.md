@@ -10,6 +10,20 @@ For more details about the project, please refer to the papers available in the 
 **Contact:** netanel.fishman@mail.huji.ac.il  
 **Last updated:** July 2025
 
+---
+
+## Note
+
+In this archive you can find all the important files used for this research. 
+more files, drafts and MISC could be found in Netanel's Google Drive on:
+
+https://drive.google.com/drive/folders/1INSyQPevl2BiFTFHdwgIJc3rtam6Pwbq?usp=drive_link
+This folder is less orgenized than the archive, but you could find there extra information.
+The Data in "amirim" folder is more earlier in the research, while later it was re-orgenized into the "Thesis" folder. Some of the files in "Theis" are just shortcuts to the files in "amirim" folder.
+
+Another Google Drive folder that could be useful is Yehuda Youngstein's folder. Yehuda was involved in the modeling process and most of the work of the models was done in his folder.
+Here is the link:
+https://drive.google.com/drive/folders/1GLuUrCAOM4DvvgzyZRaGN0ip2bYLmr3Z?usp=sharing
 
 ---
 
@@ -46,5 +60,5 @@ These datasets are stored on the **Givat Ram cloud server**.
 
 ---
 
-## Here you can find the folder structure:
+## Here you can find the Archive foldera structure:
 ![Folder Structure](folder_structure.png)
